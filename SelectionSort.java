@@ -1,3 +1,5 @@
+package Search_and_sort_algorithms;
+
 import java.io.IOException;
 import java.util.InputMismatchException;
 import java.util.Scanner;
