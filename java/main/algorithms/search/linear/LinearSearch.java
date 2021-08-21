@@ -1,4 +1,4 @@
-package Search_and_sort_algorithms;
+package java.main.algorithms.search.linear;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

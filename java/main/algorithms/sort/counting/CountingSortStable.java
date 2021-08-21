@@ -1,4 +1,4 @@
-package Search_and_sort_algorithms;
+package java.main.algorithms.sort.counting;
 
 import java.util.Scanner;
 
