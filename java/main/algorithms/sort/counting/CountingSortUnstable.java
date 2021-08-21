@@ -1,3 +1,5 @@
+package java.main.algorithms.sort.counting;
+
 import java.util.Scanner;
 
 public class CountingSortUnstable {
